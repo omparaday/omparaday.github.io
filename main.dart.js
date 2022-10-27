@@ -61857,7 +61857,7 @@ case 8:j=k
 s=10
 return A.H(A.R9(o),$async$jQ)
 case 10:j.a=d.b
-case 9:l=A.kh(A.ba(125,215,215,215),A.ba(125,70,70,70))
+case 9:l=A.kh(A.ba(125,215,215,215),A.ba(125,50,50,50))
 o=p.c
 o.toString
 A.amF(new A.a7F(k,b,a,l,n,m),o,t.H)
@@ -62825,10 +62825,10 @@ if(s!=null){s.aU()
 this.eW$=null}this.li()}}
 A.dw.prototype={
 U(a,b){var s=null,r=b.X(t.l).f,q=this.e
-q=(q==null?A.kh(A.ba(125,230,230,230),A.ba(125,70,70,70)):q).bL(b)
+q=(q==null?A.kh(A.ba(125,230,230,230),A.ba(125,50,50,50)):q).bL(b)
 return A.bl(s,A.aj8(A.adv(new A.bo(4,4)),A.bl(s,A.az(this.c,s,s,s,this.d,s),s,s,s,s,B.hZ,r.a.a),q),s,s,s,B.hX,s,s)}}
 A.iZ.prototype={
-U(a,b){var s=null,r=b.X(t.l).f,q=A.kh(A.ba(125,230,230,230),A.ba(125,70,70,70)).bL(b)
+U(a,b){var s=null,r=b.X(t.l).f,q=A.kh(A.ba(125,230,230,230),A.ba(125,50,50,50)).bL(b)
 return A.bl(s,A.aj8(A.adv(new A.bo(4,4)),A.bl(s,this.c,s,s,s,s,B.hZ,r.a.a),q),s,s,s,B.hX,s,s)}}
 A.i7.prototype={
 i(a){return"HistoryType."+this.b}}
