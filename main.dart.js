@@ -62994,7 +62994,7 @@ if(p!==300)c=A.iB()
 else{c=m+r
 c=A.em(d,A.fg(B.ag,A.a([e.j6(b,"\ud83d\ude0a",1.0353981633974483),e.j6(b,"\ud83d\ude03",1.7707963267948965),e.j6(b,"\ud83d\ude34",2.5061944901923447),e.j6(b,"\ud83d\ude22",3.441592653589793),e.j6(b,"\ud83d\ude14",4.226990816987241),e.j6(b,"\ud83e\udd12",4.96238898038469),e.j6(b,"\ud83d\ude21",5.747787143782138),e.j6(b,"\ud83e\udd17",0.25)],i),B.aE,d,d),d,d,c-10,d,c,d)}return A.cl(A.a([A.fg(B.ag,A.a([h,q,n,o,j,k,l,g,f,c],i),B.Ci,d,d),A.az(e.LB(b),d,d,d,A.bG(d,d,d,d,d,d,d,d,d,d,d,22,d,d,d,d,!0,d,d,d,d,d,d,d,d),d)],i),B.S,B.K,B.A)},
 j6(a,b,c){var s=this.mY(b,a),r=A.cm(a).gfH()
-return new A.AT(this.e,s,c,r.gl_(r).a1Y(16),null)},
+return new A.AT(this.e-2,s,c,r.gl_(r).a1Y(16),null)},
 mY(a,b){var s
 switch(a){case"\ud83d\ude0a":s=A.a2(b,B.l,t.X)
 s.toString
@@ -63039,9 +63039,9 @@ q=A.a2(a,B.l,q)
 q.toString
 o=n.$2(q.a2("slightMood"),A.a([m.mY(A.ack(l,s,k),a)],p))}}return o},
 iI(a,b){var s=this.e,r=this.c!==300?b/2:b
-return this.d+s+(r+s+2)*Math.cos(a)-b/2},
+return this.d+s+(r+s+4)*Math.cos(a)-b/2},
 iH(a,b,c){var s=this.e,r=this.c!==300?b/2:b
-return this.d-10+s+-(r+s+2)*Math.sin(a)-c/2}}
+return this.d-10+s+-(r+s+4)*Math.sin(a)-c/2}}
 A.YZ.prototype={
 $1(a){var s=a.e
 return this.a.w.$2(s.a,s.b)},
