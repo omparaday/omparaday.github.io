@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f5530026ca14f37b83902e072768ff33",
-"index.html": "8abd9345b1c56ac3b040f2df9fdee044",
-"/": "8abd9345b1c56ac3b040f2df9fdee044",
-"main.dart.js": "d7761606d68314b3888618bc7309babc",
+"index.html": "099f8db3b32481968145c0baa5a767f5",
+"/": "099f8db3b32481968145c0baa5a767f5",
+"main.dart.js": "3294cfdb99c2b3e5413f394b2e6ecb9f",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "fbe97a0ab31561162c4ba457176751cd",
 "icons/Icon-192.png": "1a01ed2a7ab11b52df27a14a6d6f0f04",
@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "3020802906dc520f88ca973c65aa46d8",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/assets/deeds_neg.json": "a7a4c64ed2a4792c542c0db4c9b7eb3f",
-"assets/assets/goodness.png": "b932da2315e0943040443404e94291d0",
+"assets/assets/goodness.png": "7b7330f0909070c9afbfafe3510445bb",
 "assets/assets/deeds.json": "cc8f8a5a08d3b55508f132b1a416ff75",
 "assets/assets/quotes.json": "946145550d3f12645eeebdd8bae2deda",
 "assets/assets/questions.json": "f9c99e5dd5e89e16a189e8e41706bf84",
