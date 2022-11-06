@@ -61845,47 +61845,46 @@ s.w=A.amf(new A.as(Date.now(),!1))
 $.amV.push(s.ga2p())
 s.oI()
 s.h1()},
-U(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="historyType",d=t.l,c=b.X(d).f
-d=b.X(d).f
-s=g.x
-r=A.b(g.d,e)
-q=t.X
-p=A.a2(b,B.k,q)
-p.toString
-p=A.ax(p.a_("history"),f,f,f,A.bi(f,f,f,f,f,f,f,f,f,f,f,22,f,B.a4,f,f,!0,f,f,f,f,f,f,f,f),f)
-o=A.db(f,10,0)
-n=A.b(g.d,e)
-m=A.a2(b,B.k,q)
-m.toString
-m=A.ax(m.a_("week"),f,f,f,f,f)
-l=A.a2(b,B.k,q)
-l.toString
-l=A.ax(l.a_("month"),f,f,f,f,f)
-k=A.a2(b,B.k,q)
-k.toString
-k=A.ax(k.a_("year"),f,f,f,f,f)
-j=A.a2(b,B.k,q)
-j.toString
-i=t.Th
-i=A.TE(A.aq([B.oH,m,B.oI,l,B.I5,k,B.oJ,A.ax(j.a_("all"),f,f,f,f,f)],i,t.l7),n,new A.a7y(g),i)
-n=A.db(f,10,0)
-j=A.ax(g.y,f,f,f,f,f)
-k=$.ec()
-l=A.a2(b,B.k,q)
-l.toString
-m=t.p
-l=A.eL(A.a([new A.he(1,B.bi,j,f),new A.jG(f),new A.he(1,B.bi,A.ax(k.$2(l.a_("averageScore"),A.a([g.z],t.s)),f,f,f,A.bi(f,f,f,f,f,f,f,f,f,f,f,f,f,B.a4,f,f,!0,f,f,f,f,f,f,f,f),f),f)],m),B.P,B.G,B.z)
-k=A.a2(b,B.k,q)
-k.toString
-k=A.h8(B.Y,B.az,A.ax(k.a_("prev"),f,f,f,A.bi(f,f,f,f,f,f,f,f,f,f,f,f,f,B.a4,f,f,!0,f,f,f,f,f,f,f,f),f),f,B.aB,44,new A.a7z(g),f,0.4)
-j=A.a2(b,B.k,q)
-j.toString
-j=A.eL(A.a([k,new A.jG(f),A.h8(B.Y,B.az,A.ax(j.a_("next"),f,f,f,A.bi(f,f,f,f,f,f,f,f,f,f,f,f,f,B.a4,f,f,!0,f,f,f,f,f,f,f,f),f),f,B.aB,44,new A.a7A(g),f,0.4)],m),B.P,B.G,B.z)
-k=A.db(f,10,0)
-h=A.db(f,10,0)
-q=A.a2(b,B.k,q)
+U(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="historyType",e=t.l,d=b.X(e).f,c=Math.max(180,b.X(e).f.a.b/3)
+e=h.x
+s=A.b(h.d,f)
+r=t.X
+q=A.a2(b,B.k,r)
 q.toString
-return A.bj(f,A.a2w(A.wG(!0,A.cl(A.a([p,o,i,n,l,j,k,new A.Fn(c.a.a,d.a.b/3,s,r,g.gMs(),f),h,A.ax(q.a_("recentSubmissions"),f,f,f,A.bi(f,f,f,f,f,f,f,f,f,f,f,f,f,B.a4,f,f,!0,f,f,f,f,f,f,f,f),f),A.db(f,10,0),A.bj(f,A.cl(A.b(g.e,"recentData"),B.bz,B.G,B.z),f,f,f,f,f,f)],m),B.P,B.G,B.z),!0),f),f,f,f,new A.av(10,0,10,0),f,f)},
+q=A.ax(q.a_("history"),g,g,g,A.bi(g,g,g,g,g,g,g,g,g,g,g,22,g,B.a4,g,g,!0,g,g,g,g,g,g,g,g),g)
+p=A.db(g,10,0)
+o=A.b(h.d,f)
+n=A.a2(b,B.k,r)
+n.toString
+n=A.ax(n.a_("week"),g,g,g,g,g)
+m=A.a2(b,B.k,r)
+m.toString
+m=A.ax(m.a_("month"),g,g,g,g,g)
+l=A.a2(b,B.k,r)
+l.toString
+l=A.ax(l.a_("year"),g,g,g,g,g)
+k=A.a2(b,B.k,r)
+k.toString
+j=t.Th
+j=A.TE(A.aq([B.oH,n,B.oI,m,B.I5,l,B.oJ,A.ax(k.a_("all"),g,g,g,g,g)],j,t.l7),o,new A.a7y(h),j)
+o=A.db(g,10,0)
+k=A.ax(h.y,g,g,g,g,g)
+l=$.ec()
+m=A.a2(b,B.k,r)
+m.toString
+n=t.p
+m=A.eL(A.a([new A.he(1,B.bi,k,g),new A.jG(g),new A.he(1,B.bi,A.ax(l.$2(m.a_("averageScore"),A.a([h.z],t.s)),g,g,g,A.bi(g,g,g,g,g,g,g,g,g,g,g,g,g,B.a4,g,g,!0,g,g,g,g,g,g,g,g),g),g)],n),B.P,B.G,B.z)
+l=A.a2(b,B.k,r)
+l.toString
+l=A.h8(B.Y,B.az,A.ax(l.a_("prev"),g,g,g,A.bi(g,g,g,g,g,g,g,g,g,g,g,g,g,B.a4,g,g,!0,g,g,g,g,g,g,g,g),g),g,B.aB,44,new A.a7z(h),g,0.4)
+k=A.a2(b,B.k,r)
+k.toString
+k=A.eL(A.a([l,new A.jG(g),A.h8(B.Y,B.az,A.ax(k.a_("next"),g,g,g,A.bi(g,g,g,g,g,g,g,g,g,g,g,g,g,B.a4,g,g,!0,g,g,g,g,g,g,g,g),g),g,B.aB,44,new A.a7A(h),g,0.4)],n),B.P,B.G,B.z)
+l=A.db(g,10,0)
+i=A.db(g,10,0)
+r=A.a2(b,B.k,r)
+r.toString
+return A.bj(g,A.a2w(A.wG(!0,A.cl(A.a([q,p,j,o,m,k,l,new A.Fn(d.a.a,c,e,s,h.gMs(),g),i,A.ax(r.a_("recentSubmissions"),g,g,g,A.bi(g,g,g,g,g,g,g,g,g,g,g,g,g,B.a4,g,g,!0,g,g,g,g,g,g,g,g),g),A.db(g,10,0),A.bj(g,A.cl(A.b(h.e,"recentData"),B.bz,B.G,B.z),g,g,g,g,g,g)],n),B.P,B.G,B.z),!0),g),g,g,g,new A.av(10,0,10,0),g,g)},
 oI(){var s=0,r=A.P(t.H),q=this,p
 var $async$oI=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=2
